@@ -1,0 +1,35 @@
+#logoliturgia{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+section{
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px;
+    border-radius: 20px;
+    text-align: center;
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#missa h5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px;
+    border-radius: 20px;
+}
+
+#liturgiadiaria{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    text-align: center;
+}
